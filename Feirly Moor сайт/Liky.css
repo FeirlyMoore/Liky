@@ -1,0 +1,17 @@
+li{
+	
+}
+h1{
+	font-family: sans-serif;
+}
+body{
+	background: url(project/img/bg-page.png) no-repeat fixed center 0;
+}
+.описание{
+	background-color: rgba(255,255,255,0.6);
+  border: 2px solid #000000;
+  color: black; 
+  padding: 10px;
+  margin: 20px;
+  padding-top: 20px;
+}

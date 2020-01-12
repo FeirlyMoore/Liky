@@ -1,0 +1,30 @@
+body { 
+	  background-image: url(img/фон2.jpg);
+   background-size: cover;
+    background-attachment: scroll;
+}
+.intro{
+  color: white;
+}
+.avatar{
+	border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+nav{
+  margin-bottom: 10px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 5px solid #000000;
+  color: black;
+}
+a{
+  color: black;
+}
+.ol li {
+
+  font-size: 12px;
+  text-align: center;
+  background-color: #b3b3b3;
+  margin: 0;
+  margin-bottom: 10px;

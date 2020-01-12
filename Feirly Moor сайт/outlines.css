@@ -1,0 +1,69 @@
+body { 
+	  /*background-image: url(https://getbg.net/upload/full/www.GetBg.net_Animals___Wolves_and_Foxes_Fox_running_against_the_wind_in_the_Sahara_desert_094310_.jpg);*/
+    background-image: url(img/фон.jpg);
+    background-attachment: fixed;
+    background-size: 100% , cover;
+    background-color: gray;
+}
+
+.liky{
+  font-family: monospace;
+  font-weight: 520;
+  font-size: 25px;
+}
+
+.moor{
+  border-top: 3px solid #000000;
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+.FeirlyMoor {
+  background-color: rgba(255,255,255,0.6);
+  border: 5px solid #808080;
+  color: black; 
+  padding-left: 10px;
+}
+
+li{
+  padding: 15px;
+}
+
+h1{
+  font-family: serif;
+  font-weight: 900;
+  font-size: 2.5em;
+}
+
+h2{
+  font-size: 35px;
+  font-weight: 600; 
+}
+
+.avatar{
+	border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+nav{
+  margin-bottom: 10px;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.6);
+  border: 5px solid #000000;
+  color: black;
+}
+
+.nav{
+ font-family: verdana,fantasy;
+}
+a{
+  color: black;
+}
+
+.ol li {
+
+  font-size: 12px;
+  text-align: center;
+  background-color: rgba(179, 179, 179, 0.85);
+  margin: 0;
+  margin-bottom: 10px;
